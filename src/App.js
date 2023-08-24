@@ -1,9 +1,8 @@
+import Landing from "./pages/landing/landing.page";
+import "./base-styles.css";
+
 function App() {
-  return (
-    <div>
-      <p>hello world</p>
-    </div>
-  );
+  return <Landing />;
 }
 
 export default App;

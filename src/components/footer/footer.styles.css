@@ -1,0 +1,10 @@
+.footer-sk {
+  background-color: goldenrod;
+}
+
+.footer-ly {
+  position: absolute;
+  bottom: 0;
+  height: 3rem;
+  width: 100%;
+}
